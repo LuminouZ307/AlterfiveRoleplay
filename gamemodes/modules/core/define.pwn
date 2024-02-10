@@ -5,7 +5,7 @@
 #define DATABASE_ADDRESS "localhost" //Change this to your Database Address
 #define DATABASE_USERNAME "root" // Change this to your database username
 #define DATABASE_PASSWORD "" //Change this to your database password
-#define DATABASE_NAME "fivemproj" // Change this to your database name
+#define DATABASE_NAME "base" // Change this to your database name
 
 #if !defined BCRYPT_HASH_LENGTH
 	#define BCRYPT_HASH_LENGTH 250
