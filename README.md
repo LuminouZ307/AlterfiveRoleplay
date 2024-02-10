@@ -32,7 +32,7 @@ ps: kalau semisal gk nemu dm aja discord saya (kalau ga maleuz saya jawap)
 
 
 Plugins yang diperlukan
-```
+
 1. Crashdetect -> [Download disini](https://github.com/Zeex/samp-plugin-crashdetect)
 2. Sampvoice -> [Download disini](https://github.com/CyberMor/sampvoice)
 3. sscanf2 -> [Download disini](https://github.com/Y-Less/sscanf/releases)
@@ -40,6 +40,6 @@ Plugins yang diperlukan
 5. samp_bcrypt -> [Download disini](https://github.com/Sreyas-Sreelal/samp-bcrypt)
 6. MySQL -> [Download disini](https://github.com/pBlueG/SA-MP-MySQL/releases)
 7. ColAndreas -> [Download disini](https://github.com/Pottus/ColAndreas)
-```
+
 
 Segitu aja ya, makasih.
