@@ -1,0 +1,14 @@
+# Folder
+pawno/
+logs/
+plugins/
+.vscode/
+
+# DLLs
+*.dll
+
+# Executables
+*.exe
+
+# Txts
+*.txt
