@@ -1,6 +1,7 @@
 # Folder
 pawno/
 logs/
+plugins/
 .vscode/
 
 # DLLs
